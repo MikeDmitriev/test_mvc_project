@@ -1,8 +1,7 @@
-package ru.bellintegrator.myapp.Model;
+package ru.bellintegrator.myapp.model;
 
 import javax.persistence.*;
 import java.util.List;
-import java.util.Set;
 
 /**
  * Created by MADmitriev on 29.05.2017.

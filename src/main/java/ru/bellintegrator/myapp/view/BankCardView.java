@@ -1,6 +1,6 @@
 package ru.bellintegrator.myapp.view;
 
-import ru.bellintegrator.myapp.Model.BankCard;
+import ru.bellintegrator.myapp.model.BankCard;
 
 /**
  * Created by MADmitriev on 01.06.2017.

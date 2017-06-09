@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.Model;
+package ru.bellintegrator.myapp.model;
 
 import ru.bellintegrator.myapp.view.OwnerView;
 

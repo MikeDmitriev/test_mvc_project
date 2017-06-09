@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.Model;
+package ru.bellintegrator.myapp.model;
 
 import ru.bellintegrator.myapp.view.BankCardView;
 
@@ -37,7 +37,6 @@ public class BankCard {
     }
 
     public BankCard(BankCardView bankCard){
-        //cardNum = bankCard.cardNum;
         name = bankCard.name;
         paySystem = bankCard.paySystem;
         type = bankCard.type;

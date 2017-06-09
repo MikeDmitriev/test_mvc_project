@@ -1,6 +1,6 @@
 package ru.bellintegrator.myapp.view;
 
-import ru.bellintegrator.myapp.Model.OwnerBase;
+import ru.bellintegrator.myapp.model.OwnerBase;
 
 /**
  * Created by MADmitriev on 01.06.2017.

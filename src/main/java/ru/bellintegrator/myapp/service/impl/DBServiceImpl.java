@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.DatabaseService.DatabaseServiceImpl;
+package ru.bellintegrator.myapp.service.impl;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,10 +7,10 @@ import org.springframework.context.annotation.Scope;
 import org.springframework.context.annotation.ScopedProxyMode;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.bellintegrator.myapp.Model.*;
-import ru.bellintegrator.myapp.ModelDAO.BankDAO;
-import ru.bellintegrator.myapp.ModelDAO.BankModelDAO.*;
-import ru.bellintegrator.myapp.DatabaseService.DBService;
+import ru.bellintegrator.myapp.model.*;
+import ru.bellintegrator.myapp.dao.BankDAO;
+import ru.bellintegrator.myapp.dao.impl.*;
+import ru.bellintegrator.myapp.service.DBService;
 import ru.bellintegrator.myapp.view.*;
 
 import java.util.*;

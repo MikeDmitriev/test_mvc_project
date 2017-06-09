@@ -1,8 +1,6 @@
 package ru.bellintegrator.myapp.view;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import ru.bellintegrator.myapp.Model.OwnerBase;
-import ru.bellintegrator.myapp.Model.OwnerId;
+import ru.bellintegrator.myapp.model.OwnerId;
 
 /**
  * Created by MADmitriev on 05.06.2017.

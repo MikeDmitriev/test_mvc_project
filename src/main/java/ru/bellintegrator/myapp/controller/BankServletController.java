@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.BankServletController;
+package ru.bellintegrator.myapp.controller;
 
 import ru.bellintegrator.myapp.view.AccountView;
 import ru.bellintegrator.myapp.view.BankCardView;

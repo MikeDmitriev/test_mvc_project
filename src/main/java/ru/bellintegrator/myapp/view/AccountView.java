@@ -1,8 +1,6 @@
 package ru.bellintegrator.myapp.view;
 
-import ru.bellintegrator.myapp.Model.AccountBase;
-import ru.bellintegrator.myapp.Model.OwnerBase;
-import ru.bellintegrator.myapp.Model.OwnerId;
+import ru.bellintegrator.myapp.model.AccountBase;
 
 /**
  * Created by MADmitriev on 01.06.2017.

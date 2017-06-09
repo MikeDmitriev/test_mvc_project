@@ -1,12 +1,12 @@
-package ru.bellintegrator.myapp.BankServletController.BankServletControllerImpl;
+package ru.bellintegrator.myapp.controller.impl;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
-import ru.bellintegrator.myapp.BankServletController.BankServletController;
-import ru.bellintegrator.myapp.DatabaseService.DBService;
+import ru.bellintegrator.myapp.controller.BankServletController;
+import ru.bellintegrator.myapp.service.DBService;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import ru.bellintegrator.myapp.view.*;

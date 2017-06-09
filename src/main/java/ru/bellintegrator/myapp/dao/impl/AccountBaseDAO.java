@@ -1,10 +1,10 @@
-package ru.bellintegrator.myapp.ModelDAO.BankModelDAO;
+package ru.bellintegrator.myapp.dao.impl;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
-import ru.bellintegrator.myapp.Model.AccountBase;
-import ru.bellintegrator.myapp.ModelDAO.BankDAO;
+import ru.bellintegrator.myapp.model.AccountBase;
+import ru.bellintegrator.myapp.dao.BankDAO;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

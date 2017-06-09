@@ -1,7 +1,6 @@
 package ru.bellintegrator.myapp.view;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import ru.bellintegrator.myapp.Model.CardRequest;
+import ru.bellintegrator.myapp.model.CardRequest;
 
 /**
  * Created by MADmitriev on 01.06.2017.

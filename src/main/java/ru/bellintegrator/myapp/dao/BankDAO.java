@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.ModelDAO;
+package ru.bellintegrator.myapp.dao;
 
 import java.util.List;
 

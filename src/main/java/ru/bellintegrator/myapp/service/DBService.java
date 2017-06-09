@@ -1,4 +1,4 @@
-package ru.bellintegrator.myapp.DatabaseService;
+package ru.bellintegrator.myapp.service;
 
 import ru.bellintegrator.myapp.view.*;
 
